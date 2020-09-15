@@ -1,0 +1,1 @@
+SELECT prontuario, FORMAT(AVG(nota),1) "média notas" FROM boletim GROUP BY prontuario having AVG(nota) > 7 ORDER BY AVG(nota) desc;

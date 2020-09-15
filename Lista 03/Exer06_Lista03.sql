@@ -1,0 +1,1 @@
+SELECT * FROM aluno WHERE nome LIKE "M%";

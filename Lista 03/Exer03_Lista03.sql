@@ -1,0 +1,1 @@
+SELECT * FROM aluno WHERE not prontuario = "12345678";

@@ -1,0 +1,1 @@
+SELECT idCurso, nome FROM curso;

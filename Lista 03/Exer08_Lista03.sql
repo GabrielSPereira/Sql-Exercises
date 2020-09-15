@@ -1,0 +1,1 @@
+SELECT * FROM boletim WHERE nota BETWEEN 4 AND 6;

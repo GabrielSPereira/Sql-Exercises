@@ -1,0 +1,1 @@
+SELECT * FROM boletim WHERE nota > 6 AND idDisciplina = 1;
